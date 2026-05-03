@@ -1,15 +1,5 @@
-
-
-
-
-
-
-Week One Assignment 2
-
-Varun Kethireddy
-(BA 611 20) Business Intelligence 2025 FA
-Professor: Dr. Cyndi Kaye Lambach
-Due Date: 08/29/2025 
+ Business Intelligence
+ 
 Explaining BI to a New Coworker
 Entering a new job may be overwhelming, particularly within a department where one must be data-driven. Business Intelligence (BI) is one of the most fundamental areas you need to learn as a team member. BI is central to data analysis, informed decision-making, and competitive organizations in today's fast-paced business environment. I want to tell you five things you need to know about BI to help you feel at home with us, and why each point is important to our department and the company.
 1.	BI Transforms Raw Data into Actionable Insights
