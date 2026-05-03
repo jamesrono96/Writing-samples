@@ -1,25 +1,32 @@
-# Writing Samples Portfolio
+# ✍️ Writing Samples Portfolio
 
 ## 👋 About Me
-Hi, I’m Emmy Jepkogei, a web developer and content writer based in Washington, USA. I specialize in writing clear, structured, and informative articles on technology and business topics.
+Hi, I’m Emmy Jepkogei, a web developer and content writer based in Washington, USA.  
+I specialize in writing clear, structured, and easy-to-understand content on technology and business topics.
 
 ## 📚 Writing Samples
-This repository contains my writing work, including:
+This repository contains my writing work:
 
-- What is Artificial Intelligence (AI)?
-- Benefits of Web Development
-- Business Intelligence Overview
+- 📄 What is Artificial Intelligence (AI)?
+- 🌐 Benefits of Web Development
+- 📊 Business Intelligence Overview
 
 ## ✍️ Skills Demonstrated
 - Technical writing
 - Clear explanation of complex topics
 - Research and analysis
-- Markdown formatting
+- Structured content formatting (Markdown)
 
-## 💻 Additional Skills
-- Web Development (HTML, CSS, JavaScript)
-- Python Programming
-- GitHub & Version Control
+## 💻 Technical Skills
+- HTML, CSS, JavaScript
+- Python (beginner level)
+- Git & GitHub
 
-## 🔗 Contact
+## 🎯 Career Focus
+I am interested in:
+- AI training and data annotation
+- Web development projects
+- Article and content writing
+
+## 📬 Contact
 Email: emmyjepkogei92@gmail.com
